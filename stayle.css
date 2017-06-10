@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+.conteiner{width: 600px; height: auto; border: solid 1px #000;margin: 0 auto;}
+.box{margin: 0 auto;}  
+.flex{width: 150px; background-color: khaki;margin: 5px;padding: 10px;}
